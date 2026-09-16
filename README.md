@@ -2,6 +2,8 @@
 
 Sitio corporativo editable para IFM Multiservicios S.A.C., basado en los mockups aprobados y en los activos locales de marca. La página comunica las actividades de manipulación de carga, transporte terrestre y fabricación de productos metálicos para uso estructural.
 
+![Vista previa del sitio IFM](public/assets/site-preview.png)
+
 ## Tecnología
 
 - React + Vite + TypeScript
@@ -60,4 +62,3 @@ El repositorio destino es `https://github.com/oprbguitar/ifmmultiservices` y la 
 ## Datos y límites
 
 La información registral mostrada proviene del material RUC local. Teléfono y correo parten de los activos corporativos/mocks locales y son editables; conviene confirmarlos antes de una publicación comercial definitiva. Los proyectos iniciales están marcados como referencias visuales editables y no como clientes o proyectos confirmados de IFM.
-
