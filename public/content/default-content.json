@@ -1,0 +1,36 @@
+{
+  "contentVersion": 1,
+  "legalName": "IF M MULTISERVICIOS S.A.C.",
+  "commercialName": "IFM MULTISERVICIOS SAC",
+  "ruc": "20613180304",
+  "companyType": "SOCIEDAD ANÓNIMA CERRADA",
+  "registrationDate": "20/09/2024",
+  "activityStart": "10/10/2024",
+  "status": "ACTIVO",
+  "taxCondition": "HABIDO",
+  "fiscalAddress": "CAL. 6 DE NOVIEMBRE MZA. F1 LOTE. 16, LIMA - LIMA - LOS OLIVOS",
+  "economicActivities": [
+    "5224 - MANIPULACIÓN DE LA CARGA",
+    "5221 - ACTIVIDADES DE SERVICIOS VINCULADAS AL TRANSPORTE TERRESTRE",
+    "2511 - FABRICACIÓN DE PRODUCTOS METÁLICOS PARA USO ESTRUCTURAL"
+  ],
+  "invoiceIssuerSince": "11/11/2024",
+  "theme": { "navy": "#163A5F", "turquoise": "#14B8C4", "coral": "#E66A4E", "pearl": "#D9DEE5", "gray": "#7B8792" },
+  "site": { "title": "IFM Multiservicios S.A.C. | Logística, Transporte y Fabricación Metálica", "description": "Servicios de manipulación de carga, transporte terrestre y fabricación de productos metálicos para uso estructural.", "canonical": "https://oprbguitar.github.io/ifmmultiservices/", "ogImage": "assets/hero-industrial.png" },
+  "brand": { "logo": "assets/logo-horizontal.png", "logoMark": "assets/logo-mark.png" },
+  "hero": { "title": "Soluciones integrales en", "highlight": "logística, transporte y fabricación metálica", "subtitle": "Impulsamos el desarrollo de tu industria con servicios confiables, seguros y eficientes en todo el Perú.", "primaryCta": "Solicitar Cotización", "secondaryCta": "Conoce Nuestros Servicios", "image": "assets/hero-industrial.png", "imagePosition": "center" },
+  "services": [
+    { "id": "carga", "title": "Manipulación de carga", "description": "Operaciones seguras y eficientes de carga, descarga y movimiento de materiales.", "detail": "Soluciones para carga y descarga de contenedores, camiones y plataformas, con manipulación general, pesada y sobredimensionada.", "image": "assets/service-load-photo.png", "imagePosition": "center", "icon": "container" },
+    { "id": "transporte", "title": "Transporte terrestre", "description": "Traslado de carga a nivel nacional con puntualidad y seguridad.", "detail": "Coordinamos traslados de carga con seguimiento operativo y una atención alineada a los requerimientos de cada servicio.", "image": "assets/service-transport-photo.png", "imagePosition": "center", "icon": "truck" },
+    { "id": "metal", "title": "Fabricación metálica", "description": "Diseño, fabricación y montaje de estructuras metálicas para la industria.", "detail": "Desarrollamos estructuras y componentes metálicos confiables, con foco en calidad, precisión y acompañamiento durante el proceso.", "image": "assets/service-metal-photo.png", "imagePosition": "center", "icon": "hard-hat" }
+  ],
+  "about": { "eyebrow": "NUESTRA FORTALEZA", "title": "¿Por qué elegirnos?", "body": "Somos un aliado estratégico para tu operación, con experiencia, infraestructura y un equipo comprometido con la excelencia.", "items": [ { "title": "Cobertura operativa", "description": "Operaciones en todo el Perú.", "icon": "map" }, { "title": "Respuesta rápida", "description": "Atención ágil y personalizada.", "icon": "clock" }, { "title": "Seguridad operativa", "description": "Procesos y estándares seguros.", "icon": "shield" }, { "title": "Personal especializado", "description": "Equipo técnico para cada necesidad.", "icon": "users" } ] },
+  "projects": [
+    { "id": "portuaria", "title": "Operación portuaria", "category": "Capacidad demostrativa", "location": "Callao, Lima", "description": "Referencia visual editable para una operación portuaria.", "image": "assets/project-portuaria.png", "imagePosition": "center", "isDemo": true },
+    { "id": "maquinaria", "title": "Transporte de maquinaria", "category": "Capacidad demostrativa", "location": "Lima – Arequipa", "description": "Referencia visual editable para transporte terrestre.", "image": "assets/project-transport.png", "imagePosition": "center", "isDemo": true },
+    { "id": "estructuras", "title": "Estructuras metálicas", "category": "Capacidad demostrativa", "location": "Planta industrial", "description": "Referencia visual editable para fabricación metálica.", "image": "assets/project-structures.png", "imagePosition": "center", "isDemo": true },
+    { "id": "montaje", "title": "Montaje industrial", "category": "Capacidad demostrativa", "location": "Sector productivo", "description": "Referencia visual editable para montaje y mantenimiento.", "image": "assets/project-montage.png", "imagePosition": "center", "isDemo": true }
+  ],
+  "contact": { "phone": "+51 987 654 321", "email": "info@ifm.com.pe", "whatsapp": "+51 987 654 321", "address": "Lima, Perú", "social": { "linkedin": "", "facebook": "", "youtube": "" } },
+  "footer": { "description": "Logística. Transporte. Fabricación metálica.\nSoluciones que construyen el futuro.", "copyright": "© 2024 IFM Multiservicios S.A.C. Todos los derechos reservados." }
+}
