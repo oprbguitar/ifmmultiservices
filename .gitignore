@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+playwright-report/
+test-results/
+coverage/
+screenshots/
+IFM.pptx
+Propuesta Comercial.docx
+img/
+Web design/
